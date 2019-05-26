@@ -399,7 +399,7 @@ a:hover {
 }
 
 .top-menu {
-  background: #5ae465;
+  background: #aa781c;
   height: 36px;
 }
 
@@ -522,7 +522,7 @@ h1.logo img, h1.logo a {
 }
 
 .main-menu ul a:hover {
-  background: #5ae465;
+  background: #aa781c;
   color: #fff;
 }
 
@@ -579,7 +579,7 @@ h1.logo img, h1.logo a {
 }
 
 .featured-item h2 {
-  color: #5ae465;
+  color: #aa781c;
   font-size: 2rem;
   text-align: center;
   margin: 0 0 30px;
@@ -741,7 +741,7 @@ h1.logo img, h1.logo a {
   position: absolute;
   width: 0;
   height: 0;
-  border-top: #5ae465 8px solid;
+  border-top: #aa781c 8px solid;
   border-right: transparent 8px solid;
   border-left: transparent 8px solid;
   border-bottom: transparent 8px solid;
@@ -750,7 +750,7 @@ h1.logo img, h1.logo a {
 }
 
 .news-and-principle .principle .principle-content {
-  background-color: #5ae465;
+  background-color: #aa781c;
   padding: 10px;
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
@@ -888,7 +888,7 @@ h1.logo img, h1.logo a {
     padding: 0px;
   }
   .news-and-principle .principle h2::before {
-    border: #5ae465 5px solid;
+    border: #aa781c 5px solid;
   }
   .news-and-principle .principle h2::after {
     display: none;
@@ -905,7 +905,7 @@ h1.logo img, h1.logo a {
     display: block;
     border-radius: 50%;
     background-color: white;
-    color: #5ae465;
+    color: #aa781c;
     text-align: center;
     line-height: 20px;
     position: absolute;
